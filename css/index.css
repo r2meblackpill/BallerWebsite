@@ -1,0 +1,12 @@
+table, th, td {
+    border: 1px solid black;
+}
+
+.copyright {
+    text-align: center;
+}
+
+img {
+    width: 25%;
+    height: auto;
+}
